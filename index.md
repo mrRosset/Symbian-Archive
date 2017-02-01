@@ -14,9 +14,9 @@ PDT = Product Development Kit
 * [PDK 4.0.a + documentation](https://sourceforge.net/projects/symbiandump/)
 * [PDT 1.7.0](http://akawolf.org/)
 
-## SDKs
+## S60 SDKs
 
-### S60 SDKs
+### C++ SDKs
 
 | Version   | OS            | Release date  | Download |
 |-----------|---------------|--------------:|----------|
@@ -38,16 +38,33 @@ Nokia edition: Sometimes it's using visual c++, sometimes it's using Carbide c++
 
 | Version    | Release date  | Download |
 |------------|--------------:|----------|
-| n7210 v1.0   | December 2002   | [link](https://mega.nz/#!7tFHHIgT!5-jgcGNNAy1LJxdZRufPA3XH5qDsU8XJKQqyKzXuebM) |
-| 3510i v1_0   | February 2003   | [link](https://mega.nz/#!61lgTT5J!M2L2Mn524RbY_6dOQJvGO6XrX43wKztQMd4QJcskO4E) |
 | s60 v1.0   | February 2003 | [link](https://mega.nz/#!TsUwSDID!NhCQDqF-rLTQAj4mLRl_VfwSa1oI2pYet2nE3UvM38c) |
 | s60 v1.2.1 | August 2003   | [link](https://mega.nz/#!X41j1bLS!dSXAIXpADo0tn6vSqJ07awC2IXfbxQtuj1nC9HrSCD4) |
 | s60 Concept Beta 0.3.1 | October 2003   | [link](https://mega.nz/#!DxN23a6Q!uCcIl3899FWsC8jEa4aYgG9RQHpg5ocav-4KmZj6SOE) |
 | s90 Concept Beta 0.1   | October 2003   | [link](https://mega.nz/#!7xM0HK6B!j8rViLGum8QBaGPOpZuKKCyVKyhPElWa6Da2UYlSC8I) |
+
+
+## Phone-specific SDKs
+
+### C++ SDKs
+
+| Version    | OS            | Release date  | Download |
+|------------|---------------|--------------:|----------|
+| N97 v1.0   | 9.x           | September 2009| [link](https://mega.nz/#!Sp0DGArA!WyWyK6icx84plaYJqZAKSJt3_jSwY6PbRnwpvTHU8VE) |
+
+### Java MIDP SDKS
+
+| Version    | Release date  | Download |
+|------------|--------------:|----------|
+| n7210 v1.0   | December 2002   | [link](https://mega.nz/#!7tFHHIgT!5-jgcGNNAy1LJxdZRufPA3XH5qDsU8XJKQqyKzXuebM) |
+| 3510i v1_0   | February 2003   | [link](https://mega.nz/#!61lgTT5J!M2L2Mn524RbY_6dOQJvGO6XrX43wKztQMd4QJcskO4E) |
+| 5100 v1.0 | June 2003   | [link](https://mega.nz/#!a5UXzT4I!WHQwZGlPLODVGC5iIxg8l6Fm1_dQ8UbGwe_-hOrxOQc) |
+| 3300 v1.0 | October 2003   | [link](https://mega.nz/#!jxdEQZoJ!t4xlZz2PGJzXxAPUDxDp41e8rT7lzppfvCmnFUS1-uc) |
 | n6230 Concept Beta 0.2   | October 2003   | [link](https://mega.nz/#!jlEFkIiZ!aVtbUZASwKphTtILYnqm_18msGj8jNrns_IsKjbA-bw) |
 | n7600 Concept Beta 2.1   | October 2003   | [link](https://mega.nz/#!yp0BiSiZ!9N5xP3pfvw7vcJNS7-0Tc08kBnwVODEbkWRFFGz43pM) |
 
-### Various SDKS
+
+## Various SDKS
 
 | Version    | Release date  | Download |
 |------------|--------------:|----------|
