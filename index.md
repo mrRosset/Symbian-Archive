@@ -31,7 +31,7 @@ PDT = Product Development Kit
 | v5 1.0.1  | 9.4           | March 2009    | [Nokia edition](http://www.mediafire.com/download/mbahmx9nyry45vj/S60_5th_SDK_ASP_v1.0.1.zip) |
 
 FP: Feature Pack  
-More information: [Archive of Nokia's site](http://web.archive.org/web/20050828073141/http://www.symbian.com/developer/sdks.asp)
+More information: [Archive of Nokia's site](http://web.archive.org/web/20050828073141/http://www.symbian.com/developer/sdks.asp)  
 Nokia edition: Sometimes it's using visual c++, sometimes it's using Carbide c++
 
 ### Java MIDP SDKS
