@@ -4,6 +4,18 @@ This small website was created to collect and organize tools and documentation r
 
 There are still a lot of missing files and tools. If you have anything that could be helpful don't hesitate to contact me by creating an issue in the [github repository](https://github.com/mrRosset/Symbian-Archive/).
 
+### Table of Contents
+
+* [PDK & PDT](#pdk--pdt)
+* [Developer Platform Tools and Resources](#developer-platform-tools-and-resources)
+* [S60 SDKs](#s60-sdks)
+  * [C++ SDKs](#c-sdks)
+  * [Java MIDP SDKS](#java-midp-sdks)
+* [Phone-specific SDKs](#phone-specific-sdks)
+  * [C++ SDKs](#c-sdks-1)
+  * [Java MIDP SDKS](#java-midp-sdks-1)
+* [Various SDKs](#various-sdks)
+
 ## PDK & PDT
 
 PDK = Platform Development Kit  
