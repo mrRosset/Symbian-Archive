@@ -10,7 +10,7 @@ There are still a lot of missing files and tools. If you have anything that coul
 * [Developer Platform Tools and Resources](#developer-platform-tools-and-resources)
 * [S60 SDKs](#s60-sdks)
   * [C++ SDKs](#c-sdks)
-  * [Java MIDP SDKS](#java-midp-sdks)
+  * [Java MIDP SDKS](#java-midp-sdks)  
 * [Phone-specific SDKs](#phone-specific-sdks)
   * [C++ SDKs](#c-sdks-1)
   * [Java MIDP SDKS](#java-midp-sdks-1)
