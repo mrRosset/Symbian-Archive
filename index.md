@@ -36,6 +36,7 @@ Nokia edition: Sometimes it's using visual c++, sometimes it's using Carbide c++
 FP: Feature Pack
 
 ### Java MIDP SDKS
+
 | Version    | Release date  | Download |
 |------------|--------------:|----------|
 | s60 v1.0   | February 2003 | [link](https://mega.nz/#!TsUwSDID!NhCQDqF-rLTQAj4mLRl_VfwSa1oI2pYet2nE3UvM38c) |
