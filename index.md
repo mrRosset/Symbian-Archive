@@ -14,6 +14,12 @@ PDT = Product Development Kit
 * [PDK 4.0.a + documentation](https://sourceforge.net/projects/symbiandump/)
 * [PDT 1.7.0](http://akawolf.org/)
 
+## Developer Platform Tools and Resources
+
+A set of CDs containing tools and SDKs for developer. Sadly we only have the 6th update to this set of CDS. Interestingly it contains a set of books about the N-Gage Arena.
+
+[6th Update Dev Tools](https://mega.nz/#!PxhA3JzT!RC1bXMbIvFsO3qeee2F22f5cvJLywUsn1uN3sKAa0pc)
+
 ## S60 SDKs
 
 ### C++ SDKs
