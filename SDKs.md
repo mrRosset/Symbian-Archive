@@ -34,6 +34,19 @@ Nokia edition: Sometimes it's using visual c++, sometimes it's using Carbide c++
 | s90 Concept Beta 0.1   | October 2003   | [link](https://mega.nz/#!7xM0HK6B!j8rViLGum8QBaGPOpZuKKCyVKyhPElWa6Da2UYlSC8I) |
 
 
+
+## Symbian^3 SDKs
+
+
+| Version    | OS            | Release date  | Download |
+|------------|---------------|--------------:|----------|
+| v1.0       | ^3            | March 2011    | [link](https://mega.nz/#!X5thgBwC!7zDVy5EkFK_HRKW8fQ3zOuTTz_g08SRkt_-V8cVLSdg) |
+| v1.0       | ^3 Belle      | January 2012  | [link](https://mega.nz/#!D5tlhSoD!Gvd4j9w_ike4ufWgzzRTuSDz53XRjMtSVwGe72RkiS4) |
+
+**Note**: Those contains all files for Symbian C++, Qt, Standard C/C++, Java ME and Web Runtime.
+
+
+
 ## Phone-specific SDKs
 
 ### C++ SDKs
