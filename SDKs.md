@@ -4,6 +4,8 @@ A set of CDs containing tools and SDKs for developer. Sadly we only have the 6th
 
 [6th Update Dev Tools](https://mega.nz/#!PxhA3JzT!RC1bXMbIvFsO3qeee2F22f5cvJLywUsn1uN3sKAa0pc)
 
+<br>
+
 ## S60 SDKs
 
 ### C++ SDKs
@@ -33,7 +35,7 @@ Nokia edition: Sometimes it's using visual c++, sometimes it's using Carbide c++
 | s60 Concept Beta 0.3.1 | October 2003   | [link](https://mega.nz/#!DxN23a6Q!uCcIl3899FWsC8jEa4aYgG9RQHpg5ocav-4KmZj6SOE) |
 | s90 Concept Beta 0.1   | October 2003   | [link](https://mega.nz/#!7xM0HK6B!j8rViLGum8QBaGPOpZuKKCyVKyhPElWa6Da2UYlSC8I) |
 
-
+<br>
 
 ## Symbian^3 SDKs
 
@@ -45,7 +47,7 @@ Nokia edition: Sometimes it's using visual c++, sometimes it's using Carbide c++
 
 **Note**: Those contains all files for Symbian C++, Qt, Standard C/C++, Java ME and Web Runtime.
 
-
+<br>
 
 ## Phone-specific SDKs
 
@@ -66,6 +68,7 @@ Nokia edition: Sometimes it's using visual c++, sometimes it's using Carbide c++
 | n6230 Concept Beta 0.2   | October 2003   | [link](https://mega.nz/#!jlEFkIiZ!aVtbUZASwKphTtILYnqm_18msGj8jNrns_IsKjbA-bw) |
 | n7600 Concept Beta 2.1   | October 2003   | [link](https://mega.nz/#!yp0BiSiZ!9N5xP3pfvw7vcJNS7-0Tc08kBnwVODEbkWRFFGz43pM) |
 
+<br>
 
 ## Various SDKS
 
