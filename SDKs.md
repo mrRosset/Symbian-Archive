@@ -4,7 +4,6 @@ A set of CDs containing tools and SDKs for developer. Sadly we only have the 6th
 
 [6th Update Dev Tools](https://mega.nz/#!PxhA3JzT!RC1bXMbIvFsO3qeee2F22f5cvJLywUsn1uN3sKAa0pc)
 
-<br>
 
 ## S60 SDKs
 
@@ -69,6 +68,18 @@ Nokia edition: Sometimes it's using visual c++, sometimes it's using Carbide c++
 | n7600 Concept Beta 2.1   | October 2003   | [link](https://mega.nz/#!yp0BiSiZ!9N5xP3pfvw7vcJNS7-0Tc08kBnwVODEbkWRFFGz43pM) |
 
 <br>
+
+## QT SDKs
+
+| Version                | Download |
+|------------------------|----------|
+| Belle SDK for QT SDK 1.1.2   | [Windows](https://mega.nz/#!e4l13ZiY!OfoRebQTVHh7K0b-YjHe-rwynpkaE5uM8TS0-QZWaAg) |
+| QT SDK offline 1.1.2   | [Windows](https://mega.nz/#!3tsRDIoC!H3DM4tmChM-XQ1dMUSOnZ46wCaJsskfgXQrHazQBTp8) / [Linux x64](https://mega.nz/#!ax1HEABA!SLWZ_7Lg1_IFnF6ktJAOCjSwOY22buAGWHjEDYE260Y) |
+| QT SDK offline 1.2.1   | [Windows](https://mega.nz/#!Kok32TSS!7Q_EErtjG8BmD0uhep3yt8m9UpfkUoLkwyWvyI6IVyg) / [Linux](https://mega.nz/#!uhdH3ZwY!0pesddzT0JLfUFdnVtGIjgBT8pI5K3WYDqOskFJHuQA) / [Linux x64](https://mega.nz/#!alk3RTRQ!ra5IDnayuSsdnSWruuxkviG-QoYvNT0S4ejwQALAlJ8) / [Mac](https://mega.nz/#!SolWVALJ!uOs2SbPrcRF-5U84mlTIzYQ8Ys1TGsT92X-vYV132qU) |
+
+
+<br>
+
 
 ## Various SDKS
 
