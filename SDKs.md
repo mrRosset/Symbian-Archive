@@ -1,5 +1,7 @@
 ### Table of Contents		
 
+<div id="tocs">
+
 * [Developer Platform Tools and Resources](#developer-platform-tools-and-resources)		
 * [S60 SDKs](#s60-sdks)		
   * [C++ SDKs](#c-sdks)		
@@ -13,6 +15,8 @@
 * [Ruby SDKs](#ruby-sdks)
 * [SilverLight SDKs](#silverlight-sdks)
 * [Various SDKs](#various-sdks)
+
+</div>
 
 <br>
 
