@@ -1,6 +1,6 @@
 ### Table of Contents		
 
-<div id="tocs">
+<div id="tocs" markdown="1">
 
 * [Developer Platform Tools and Resources](#developer-platform-tools-and-resources)		
 * [S60 SDKs](#s60-sdks)		
