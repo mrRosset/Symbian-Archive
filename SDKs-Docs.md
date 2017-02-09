@@ -1,6 +1,6 @@
 ## Libraries
 
-Some SDK's / Pdk's libraries came in seperate form. Those who are in jar format don't work with a mordern JRE/JDK. But from my personal experience they work in an xp vm with both jre 1.2.1 and the microsoft's virtual machine.
+Some SDK's / Pdk's libraries came in seperate form. Those who are in jar format don't work with a mordern JRE/JDK. But from my personal experience they work in an xp vm with both jre 1.2.1 and the microsoft's jvm.
 
 | Description   | Download |
 |-----------|----------|
