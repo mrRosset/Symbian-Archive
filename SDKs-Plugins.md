@@ -1,6 +1,3 @@
-## SDKs Plug-Ins & Extensions
-
-
 ### API Plug-Ins Pack
 
 Those packs contains multiple plug-ins that add new API to the appropriate SDK.
