@@ -3,7 +3,7 @@
 
 ### API Plug-Ins Pack
 
-Those packs contains multiple plug-ins that add new API to the appropriate SDK. (Call Audio Control API, VoIP Audio Service API, ...)
+Those packs contains multiple plug-ins that add new API to the appropriate SDK. (Call Audio Control API, VoIP Audio Service API, ...)  
 Obviously the SDK should be installed before the plug-ins.
 
 | Description                              | Release date  | Download |
@@ -16,7 +16,7 @@ Obviously the SDK should be installed before the plug-ins.
 
 ### Individual Plug-Ins & Extensions
 
-Some of them have additional dependencies, check the readme / pdf file. (Sometimes located in a subfolder)
+Some of them have additional dependencies, check the readme / pdf file.
 
 | Description                                           | Release date  | Download |
 |-------------------------------------------------------|--------------:|----------|
