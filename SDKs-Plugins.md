@@ -3,7 +3,7 @@
 
 ### API Plug-Ins Pack
 
-Those packs contains multiple plug-ins that add new API to the appropriate SDK. (Call Audio Control API, VoIP Audio Service API, ...)  
+Those packs contains multiple plug-ins that add new API to the appropriate SDK.
 Obviously the SDK should be installed before the plug-ins.
 
 | Description                              | Release date  | Download |
