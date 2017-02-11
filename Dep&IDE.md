@@ -31,4 +31,4 @@ While most "recent" SDKS come with their own dependencies bundled, the oldest on
 | Description     | Download |
 |-----------------|----------|
 | ActivePerl 5.6.1.635 | [link](https://mega.nz/#!i182nTbb!SVwZnLumFSdlLOT2erXBn_Rs7akTx9cFG2FQAOMLxWk) |
-| Java JRE 1.3.1_01 | [link](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase13-419413.html |
+| Java JRE 1.3.1_01 | [link](http://www.oracle.com/technetwork/java/javasebusiness/downloads/java-archive-downloads-javase13-419413.html) |
