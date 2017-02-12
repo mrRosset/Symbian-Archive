@@ -436,15 +436,17 @@ header ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
+	text-align: center;
     /*background-color: #333;*/
 }
 
 header li {
-    float: left;
+    display: inline;
+    /*float: left;*/
 }
 
 header li a {
-    display: block;
+    display: inline-block;
     color: white;
     text-align: center;
     padding: 14px 16px;
