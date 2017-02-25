@@ -16,7 +16,7 @@ A lot of whitepapers published on the nokia website and a lot of Developer Forum
 
 ## Thanks
 
-An immense thanks to freaks_r_us who collected and archived a lot of ressources. He/she also saved a lot of community collected tools. I hope to eventually store everything here. [Link to the archive](https://www.mediafire.com/folder/79jhy594xb3uk/Symbian_Development)
+An immense thanks to freaks_r_us who collected and archived a lot of resources. He/she also saved a lot of community collected tools. I hope to eventually store everything here. [Link to the archive](https://www.mediafire.com/folder/79jhy594xb3uk/Symbian_Development)
 
 The second huge thanks is to Artjom Vejsel, who host on his [personal website](https://akawolf.org/) a full mirror of the Symbian Foundation Wiki and of the Symbian Mercurial Repository.
 
