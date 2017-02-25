@@ -24,3 +24,13 @@ The Carbide plug-in for each plateform. And with an additional one made by Simog
 | Nokia E72               | [link](https://mega.nz/#!nhMlkT4b!RnctY_Sym1PGZfSBv-L1I2bauB9fGKmf66iRjWKrx_4) |
 | ItalianLab Belle Plugin v5.1.0 by Simograndi | [link](https://mega.nz/#!i9MgRIaa!JpLk0b6uOO7siIutW01S24H7dXQf9Hg6wcNAZRLoQbo) |
 
+
+### Nokia 7710 Theme Studio
+
+The Nokia 7710 has his own theme making tool that is compatible with both the device and N7710 SDK's emulator.
+
+| Description                  |Download |
+|------------------------------|----------|
+| Nokia 7710 Theme Studio      | [link](https://mega.nz/#!30UwFK7S!1XMD3vsIMaTXTw78uNp1RBzd690vmpZwhM6aERgXWwI) |
+
+
