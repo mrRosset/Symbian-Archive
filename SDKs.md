@@ -142,6 +142,7 @@ Nokia edition: Sometimes it's using visual c++, sometimes it's using Carbide c++
 | Nokia Testing Suite 1.2 | July 2003 | [link](https://mega.nz/#!WtMkmRoL!cO6lUsFWBiMYuIkuXFHO8ztlnhWDdevxjEc0XeBE3Nw)|
 | n7600 MMS Concept SDK Beta 0.2 | October 2003 | [link](https://mega.nz/#!q1E2VBTR!5yUUFWdUmQrgpXamW0lJ8Db83gFdUq9ZA15xN1UpGZA)|
 | Nokia Audio Suite 1.0.1 | October 2003 | [link](https://mega.nz/#!OsFFHYIJ!-N3P0iOb8e2bPrBcFJCqma1TBQOcBmWXfItlU1ds4CU)|
+| Nokia Audio Suite 2.0   | May 2005     | [link](https://mega.nz/#!DkUBRCDB!9v1Cb0uJguKYQM26p5xj3yR21fsRT7Qeb0uK8kJM95s)
 | Nokia Multimedia Converter 2.0 | November 2003| [link](https://mega.nz/#!HhEDXIZB!6NeCjHcbu8fxfdwE1KjVndF77fdkHEkZUDjOoWenPzI)|
 | Nokia Content Publishing Toolkit 2.1 (NCPT2.1) | | [link](https://mega.nz/#!2hEAxZAS!JSw3ZvXQKXDgvVe6TUTc9El17n1rJa5PL6EEE1itjsw)|
 | Nokia Mobile Internet Toolkit 4.0| | [link](https://mega.nz/#!ewd1UJoT!BxZFjuzP1nUFT5spI9xcLaughPTPVPYR44Iegsy-_xc)|
