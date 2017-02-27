@@ -146,4 +146,3 @@ Nokia edition: Sometimes it's using visual c++, sometimes it's using Carbide c++
 | Nokia Multimedia Converter 2.0 | November 2003| [link](https://mega.nz/#!HhEDXIZB!6NeCjHcbu8fxfdwE1KjVndF77fdkHEkZUDjOoWenPzI)|
 | Nokia Content Publishing Toolkit 2.1 (NCPT2.1) | | [link](https://mega.nz/#!2hEAxZAS!JSw3ZvXQKXDgvVe6TUTc9El17n1rJa5PL6EEE1itjsw)|
 | Nokia Mobile Internet Toolkit 4.0| | [link](https://mega.nz/#!ewd1UJoT!BxZFjuzP1nUFT5spI9xcLaughPTPVPYR44Iegsy-_xc)|
-| Sune ONE Studio 4 update 1 Mobile Edition | | [link](https://mega.nz/#!HwcUhK7R!_n9hvxYR8V1HxcrnyMptfDhUcgO3Coo82M_NovgPT7M)|
