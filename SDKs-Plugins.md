@@ -22,6 +22,7 @@ Some of them have additional dependencies, check the readme / pdf file.
 | Nokia SIP Plug-In 3.29 for s60 SDK 2.1b               |           2005| [link](https://mega.nz/#!P11W1YQK!TrIOfwEDeOCg6jLNP2AwymRD1ilZUyOdgUtdkGSItf0) |
 | Nokia SIP Plug-in 4.0 for s60                         |           2005| [link](https://mega.nz/#!H0FBiCRC!tXDHduc268Dj--GBcZUj5yxFPfy9j_we9tdP87-8EjE) |
 | Enterprise Solutions Plug-In for s60 3rd Ed MR        |           2006| [link](https://mega.nz/#!fxUTjRDC!DvU2vOwP2pEf-9yHCIl4vDXzMGjU1J_4j9aDm7Vv20A) |
+| Sony Ericsson M600 SDK extension Beta 0.4             |           2006| [link](https://mega.nz/#!rxsnASib!htxJm3Dt6p2QMjDiknReDJrU2KsaPpfwKSD389YD1Io) |
 | Opengl ES 1.1 SDK Plug-In for s60 3rd Ed SDK          |           2006| [link](https://mega.nz/#!LgsXxYDI!XoyKIMIh9hqdv56kVIkA4wjDHnJ61WDGqTiSSERoYS0) |
 | Nokia Eseries SDK Plug-In for s60 3rd Ed FP1          |           2008| [link](https://mega.nz/#!a5sBwDwQ!50s6obaKI4cPHr3nhhrut5e3_Wx2VmQC1NOv4CHmgsM) |
 | Nokia Eseries SDK Plug-in for s60 3rd Ed FP2          |           2008| [link](https://mega.nz/#!eo0VmJyI!5i9Qt_TfnVBnRZ6y8XEPoyQ5CN7e5Ohmy5RzpTr4Lw8) |
