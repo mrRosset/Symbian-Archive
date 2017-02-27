@@ -1,4 +1,4 @@
-### Carbide c++
+### Carbide C++
 
 While the sdks started by using primarily Visual Studio 6 as their main IDE with an eventual support for CodeWarrior. Nokia changed this by creating their own IDE based on eclipse called Carbide c++.
 
