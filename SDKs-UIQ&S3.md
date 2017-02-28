@@ -4,9 +4,9 @@
 |---------------|---------------:|----------|
 | v2.1          | 		    2004 | [Nokia edition](https://mega.nz/#!vpc3wbSS!-cDLuABGy2s66q2FZNPg7veKtsvo9qLfy0ObaY2mRFw) / [CodeWarrior edition](https://mega.nz/#!i98RGD7J!ZtCTHX0ZC--rL-CI3Jc4ltVUAeXIQkqKZTeOfA-64wk) |
 | v2.1 update 1 | 		    2004 | [Nokia edition](https://mega.nz/#!vsMwjJ6a!iVNlFiF4fzNpfHY_L01t3SR7o27sVb5suWv0UO6fSIU) / [CodeWarrior edition](https://mega.nz/#!Lp9R2DpT!74dbrtDMj98oLdhHElZIMz4gvyfRyWzoCeH545anRH8) |
-| v3.0          | 		    2007 | [link](https://mega.nz/#!fss3gBTI!cwsjtIibZDWBRYxvbLqLzet4NOch0AX8lyqhGzvr-mY) |
-| v3.1          | 		    2007 | [link](https://mega.nz/#!3p9hDD5b!qWGAKqNpYDw3-mKoV5wFNmfcljmkqYtgS-hE3zShrzc) |
-| v3.3          | 		    2007 | [link](https://mega.nz/#!GxEyjZoR!LDMiIk-OYqClKPc6Jpxbhi0daYV4vLmfUWcApVmT4kE) |
+| v3.0          | 		    2007 | [Nokia edition](https://mega.nz/#!fss3gBTI!cwsjtIibZDWBRYxvbLqLzet4NOch0AX8lyqhGzvr-mY) |
+| v3.1          | 		    2007 | [Nokia edition](https://mega.nz/#!3p9hDD5b!qWGAKqNpYDw3-mKoV5wFNmfcljmkqYtgS-hE3zShrzc) |
+| v3.3          | 		    2007 | [Nokia edition](https://mega.nz/#!GxEyjZoR!LDMiIk-OYqClKPc6Jpxbhi0daYV4vLmfUWcApVmT4kE) |
 
 <br>
 
