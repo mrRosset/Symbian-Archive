@@ -19,3 +19,9 @@ For one short year, Nokia open-sourced their Symbian smartphone operating system
 ### Accessroot Arteam's Symbian tools and tutorials
 
 This is a collection of tools and tutorials created by the Accessroot Arteam. They are mostly focused on reverse engineering and implementation details of Symbian OS. Since their official website is frequently offline here is an archive of all their Symbian Work ( [link](https://mega.nz/#!j8gQVABI!MOWKcTM61x87IIau0QdFYLeVVjpamCuiyFafR3OFSmI)) and of all of their Work available on their website in 2016 ([link](https://mega.nz/#!v9ZAGLAQ!TTquoYgJCkWTDmOdxv0AU18x8sOpAKYMJ43-jNG0jbE))
+
+<br>
+
+### GnuPoc Package
+
+This is a collection of patched tools and scripts for compiling them, for building symbian applications. It also contains patches for different S60 and UIQ SDKs, to enable building in unix-like environments. [link](http://www.martin.st/symbian/)
