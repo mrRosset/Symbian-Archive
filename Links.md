@@ -6,7 +6,7 @@ Artjom Vejsel kindly host a mirror of the Symbian Foundation Wiki. [link](https:
 
 ### Symbian Foundation Mercurial Repository
 
-Artjom Vejsel also host a copy of the mercurial repository that contains the source code of Symbian. [link](https://akawolf.org/oss/)
+Artjom Vejsel also host a copy of the mercurial repository that contains the source code of Symbian and is useful to follow the procedures mentionned in the Wiki. [link](https://akawolf.org/oss/)
 
 <br>
 
