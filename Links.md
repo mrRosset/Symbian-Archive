@@ -25,3 +25,9 @@ This is a collection of tools and tutorials created by the Accessroot Arteam. Th
 ### GnuPoc Package
 
 This is a collection of patched tools and scripts for compiling them, for building symbian applications. It also contains patches for different S60 and UIQ SDKs, to enable building in unix-like environments. [link](http://www.martin.st/symbian/)
+
+<br>
+
+### Ensymle
+
+The Ensymble developer utilities for Symbian OS™ is a collection of Python® modules and command line programs for Symbian OS software development. [Google Code](https://code.google.com/archive/p/ensymble/) / [Unofficial Github Mirror](https://github.com/essaic/ensymble/)
