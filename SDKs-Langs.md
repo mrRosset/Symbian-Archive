@@ -1,5 +1,8 @@
 ## Python SDKs
 
+The projet's website is available at https://garage.maemo.org/projects/pys60  
+Use their downloads in priority.
+
 | Version    | Release date  | Download |
 |------------|--------------:|----------|
 | Py60 1.9.6 |      June 2009| [link](https://mega.nz/#!fsVW2ZaR!jXqGhUT_LZQlXcnubqidsNBr_5vkU38X9TOZtUEWwXo) |
