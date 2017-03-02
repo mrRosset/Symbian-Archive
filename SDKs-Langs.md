@@ -1,7 +1,6 @@
 ## Python SDKs
 
-The projet's website is available at [https://garage.maemo.org/projects/pys60](https://garage.maemo.org/projects/pys60]
-)
+The projet's website is available at [https://garage.maemo.org/projects/pys60](https://garage.maemo.org/projects/pys60])
 Use their downloads in priority.
 
 | Version    | Release date  | Download |
