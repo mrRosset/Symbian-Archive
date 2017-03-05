@@ -45,6 +45,7 @@ DP: Developer Platform
 |------------|--------------:|----------|
 | S80 DP 2.0 | January 2005  | [link](https://mega.nz/#!TsUwSDID!NhCQDqF-rLTQAj4mLRl_VfwSa1oI2pYet2nE3UvM38c) |
 
+<br>
 
 ## S90 SDKs
 
