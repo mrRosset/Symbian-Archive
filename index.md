@@ -4,6 +4,8 @@ This small website was created to collect and organize tools and documentation r
 
 There are still a lot of missing files and tools. If you have anything that could be helpful don't hesitate to contact me by creating an issue in the [github repository](https://github.com/mrRosset/Symbian-Archive/).
 
+<br>
+
 ## What is missing the most
 
 ### SDKs
@@ -12,6 +14,8 @@ While not complete, the s60 series SDKs are well garnished. For most plateform (
 ### Documentation
 
 A lot of whitepapers published on the nokia website and a lot of Developer Forum Guides are not saved yet. Worse it's actually a lot harder to know what is missing, since no complete list is available to my knowledge. What has been collected is not yet organized but should be in the next few weeks.
+
+<br>
 
 ## Thanks
 
