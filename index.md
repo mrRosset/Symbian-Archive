@@ -17,6 +17,10 @@ A lot of whitepapers published on the nokia website and a lot of Developer Forum
 
 <br>
 
+## Contact
+
+If you have any question or suggestion, please create an issue on the [github repository](https://github.com/mrRosset/Symbian-Archive/).
+
 ## Thanks
 
 An immense thanks to freaks_r_us who collected and archived a lot of resources. He/she also saved a lot of community collected tools. I hope to eventually store everything here. [Link to the archive](https://www.mediafire.com/folder/79jhy594xb3uk/Symbian_Development)
