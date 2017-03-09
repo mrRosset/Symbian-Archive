@@ -8,4 +8,10 @@ I'm not really sure how to cleanly organize the tools here in a comprehensive wa
 
 ## Useful Symbian Apps
 
+### Symbian ToolBox
+
 A collection of useful tools to have on your phones. From a file explorer to an IRC client. [link](http://symbian.host-ed.me/)
+
+### OpenTTD Symbian Port
+
+The indispensable port of OpenTTD for Symbian. An absolute must-have. [Forum Link](https://www.tt-forums.net/viewtopic.php?t=35942). [Download Link](http://team.pld-linux.org/~wolf/symbian/)
