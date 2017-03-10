@@ -489,7 +489,7 @@ header li.dropdown {
 input[type=checkbox] {
     display:none;
 }
-
+	
 /*Show menu when invisible checkbox is checked*/
 input[type=checkbox]:checked ~ li a{
     display:block;
@@ -533,6 +533,10 @@ input[type=checkbox]:checked ~ li.dropdown{
 	
 	.show-menu:hover {
 	    background-color: #111;
+	}
+	
+	.dropdown-content a {
+		text-align: center;
 	}
 	
 }
