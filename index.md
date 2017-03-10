@@ -9,7 +9,7 @@ There are still a lot of missing files and tools. If you have anything that coul
 ## What is missing the most
 
 ### SDKs
-While not complete, the s60 series SDKs are well garnished. For most plateform (s80, s90, UIQ, ^3, ...) there is at least one SDK. More could be added if possible but the most interresting is now the various SDKs that added specific functionnalities (MMS, Audio suite, ...)
+While not complete, the s60 series SDKs are well garnished. For the other plateforms (s80, s90, UIQ, ^3, ...) there is at least one SDK. More could be added if possible but the most interresting is now the various SDKs that added specific functionnalities (MMS, Audio suite, ...)
 
 ### Documentation
 
