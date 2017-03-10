@@ -14,7 +14,8 @@ Use their downloads in priority.
 
 ## Ruby SDKs
 
-Ruby 1.9.1 Documentation: [http://www.gredia.eu/upload/Gredia_Ruby.pdf](http://www.gredia.eu/upload/Gredia_Ruby.pdf)
+Ruby 1.9.1 Documentation: [http://www.gredia.eu/upload/Gredia_Ruby.pdf](http://www.gredia.eu/upload/Gredia_Ruby.pdf)  
+Source of Ruby 1.9.3-p0: [https://github.com/sj26/ruby-1.9.3-p0/tree/master/symbian](https://github.com/sj26/ruby-1.9.3-p0/tree/master/symbian)
 
 | Version      | Download |
 |--------------|----------|
