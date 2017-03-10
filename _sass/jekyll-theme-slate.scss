@@ -520,7 +520,7 @@ input[type=checkbox]:checked ~ li.dropdown{
 		padding: 14px 16px;
 		text-decoration: none;
 	}
-	
+		
 	/*Display 'show menu' link*/	
 	.show-menu {
 		display: block;
@@ -535,6 +535,9 @@ input[type=checkbox]:checked ~ li.dropdown{
 	    background-color: #111;
 	}
 	
+	header li.dropdown{
+		display: block
+	}
 	
 	.dropdown-content {
 		position: static;
