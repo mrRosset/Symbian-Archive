@@ -484,6 +484,43 @@ header li.dropdown {
     display: block;
 }
 
+.show-menu {
+    display: none;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.show-menu a:hover {background-color: #f1f1f1}
+
+/*Responsive Styles*/
+@media screen and (max-width : 760px) {
+	header li a, .dropbtn {
+		display: block;
+		color: white;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+	}
+	
+	/*Display 'show menu' link*/	
+	.show-menu {
+		display: block;
+		color: white;
+		text-align: center;
+		padding: 14px 16px;
+		text-decoration: none;
+	}
+	
+	.show-menu:hover {
+	    background-color: #111;
+	}
+	
+	
+}
+
+
 #tocs ul {
 	margin-bottom: 1px
 }
