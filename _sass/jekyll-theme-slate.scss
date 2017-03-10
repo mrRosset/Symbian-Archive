@@ -535,6 +535,11 @@ input[type=checkbox]:checked ~ li.dropdown{
 	    background-color: #111;
 	}
 	
+	
+	.dropdown-content {
+		position: static;
+	}
+	
 	.dropdown-content a {
 		text-align: center;
 	}
