@@ -19,7 +19,7 @@ Source of Ruby 1.9.3-p0: [https://github.com/sj26/ruby-1.9.3-p0/tree/master/symb
 
 | Version      | Download |
 |--------------|----------|
-| ruby 1.9.2.0 | [link](https://mega.nz/#!TsM1CZJA!K71p63AVWTwZW_FRoagRLbiuTBnOnS3iabbVmDqdrqg) |
+| ruby 1.9.2.0 | [Official Website](https://www.ruby-lang.org/en/news/2010/08/18/ruby-1-9-2-released/) / [Symbian-Only archive](https://mega.nz/#!TsM1CZJA!K71p63AVWTwZW_FRoagRLbiuTBnOnS3iabbVmDqdrqg) |
 
 <br>
 
