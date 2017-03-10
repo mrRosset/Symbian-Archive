@@ -496,6 +496,11 @@ input[type=checkbox]:checked ~ li a{
     margin:0 auto;
 }
 
+input[type=checkbox]:checked ~ li.dropdown{
+    display:block;
+    margin:0 auto;
+}
+
 .show-menu {
     display: none;
     color: white;
