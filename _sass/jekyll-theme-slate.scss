@@ -484,6 +484,18 @@ header li.dropdown {
     display: block;
 }
 
+
+/*Hide checkbox*/
+input[type=checkbox] {
+    display:none;
+}
+
+/*Show menu when invisible checkbox is checked*/
+input[type=checkbox]:checked ~ li a{
+    display:block;
+    margin:0 auto;
+}
+
 .show-menu {
     display: none;
     color: white;
@@ -497,7 +509,7 @@ header li.dropdown {
 /*Responsive Styles*/
 @media screen and (max-width : 760px) {
 	header li a, .dropbtn {
-		display: block;
+		display: none;
 		color: white;
 		text-align: center;
 		padding: 14px 16px;
@@ -511,12 +523,12 @@ header li.dropdown {
 		text-align: center;
 		padding: 14px 16px;
 		text-decoration: none;
+		margin:0 auto;
 	}
 	
 	.show-menu:hover {
 	    background-color: #111;
 	}
-	
 	
 }
 
