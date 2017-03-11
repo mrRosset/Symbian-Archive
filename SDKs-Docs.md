@@ -1,6 +1,6 @@
 ## Libraries
 
-Some SDK's / Pdk's libraries came in seperate form. Those who are in jar format don't work with a mordern JRE/JDK. But from my personal experience they work in an xp vm with both jre 1.2.1 and the microsoft's jvm.
+Some SDK's / Pdk's libraries came in seperate form. Those who are in jar format don't work with a mordern JRE/JDK. But from my personal experience they work in an xp vm with both jre 1.3.1 and the microsoft's jvm.
 
 | Description   | Download |
 |-----------|----------|
@@ -14,4 +14,4 @@ Some SDK's / Pdk's libraries came in seperate form. Those who are in jar format 
 
 ### GCCE Library
 
-Not exactly the library of a specific SDK/PDK, but the documentation of the compiler (GCCE) existed also as a collection of pdf. We only have the documentation for GCCE 4.6.3 and it's unclear wheter or not other version of GCCE had similar documentation. [Download](https://mega.nz/#F!SpkVSSqB!ZLhZ8KKJKHXg-u2BsWpqYQ).
+Not exactly the library of a specific SDK/PDK, but the documentation of the compiler (GCCE) existed also as a collection of pdf. We only have the documentation for GCCE 4.6.3 and it's unclear whether or not other version of GCCE had similar documentation. [Download](https://mega.nz/#F!SpkVSSqB!ZLhZ8KKJKHXg-u2BsWpqYQ).
