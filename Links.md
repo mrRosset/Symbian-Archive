@@ -22,6 +22,12 @@ This is a collection of tools and tutorials created by the Accessroot Arteam. Th
 
 <br>
 
+### N-Gage docs, firwmares, ...
+
+This is sort of the "ancestor" projet to this one (Symbian Archive). NGemu had the goal of being an N-Gage emulator. While the projet has now changed it's approach and is now living somewhere else, a lot of the n-gage specific documentations, tools and articles that were collected haven't yet been added to this website. [link](https://github.com/NGEmu/NGEmu/wiki)
+
+<br>
+
 ### GnuPoc Package
 
 This is a collection of patched tools and scripts for compiling them, for building symbian applications. It also contains patches for different S60 and UIQ SDKs, to enable building in unix-like environments. [link](http://www.martin.st/symbian/)
