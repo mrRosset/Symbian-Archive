@@ -27,10 +27,11 @@ The Nokia WebTools include the Web Developer Environment, the Web Developer Chan
 
 ### Compilers
 
+For old SDKS (Symbian 1ed/2ed), the unofficial project ["Symbian GCC Improvement Project"](http://www.inf.u-szeged.hu/projectdirs/symbian-gcc/dload.php) provide a more up to date compiler. For more recent SDKS, there is another unofficial project ["GCCE for Symbian"](https://github.com/fedor4ever/GCC-4-Symbian) which let you use bleeding-edge GNU toolchain for Symbian.
+
 | Description                              | Download |
 |------------------------------------------|----------|
 | GCCE 4.6.3                               | [Linux](https://mega.nz/#!e0dzADLA!3bOw1EAhke79HT9EWVlZarCz1tXpa6gkFYjTE1SFiFI) / [MingW32](https://mega.nz/#!e0VziSCQ!Lia3quKgmxzlpPDjxB8VGMae-HE4L9b_7wxRxN2MqJ4) |
-| Patch for recent versions of GCCE        | [Linux](https://github.com/fedor4ever/GCC-4-Symbian) |
 | RVDS 4.0 Professional Service Pack 3     | [Windows](https://mega.nz/#!nlk1QZxD!H4N04USb-TE1kQk0K141muqKdbVzMsZDT6HPibZxDFo) |
 | RVDS 4.1 Suite Service Pack 2            | [Windows](https://mega.nz/#!i5cwESYT!W1nZv0V2ciITLtNsgHeYjeOpLb2rh8NMdUkR5kS7PSY) | 
 | ARM Compiler Toolchain v4.1 for RVDS 4.1 | [Windows](https://mega.nz/#!SpdWnTrQ!xo1HufW3pZo7GGPmLWIvXClXTOdo8gobxl9t9wZKeY4) | 
