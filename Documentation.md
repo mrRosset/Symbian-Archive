@@ -17,6 +17,7 @@ This is a russian book about C++ programming on Symbian 9.x that was published i
 ### Tutorials
 * [Step by step tutorial for your first Symbian Application](https://github.com/sapandiwakar/Symbian-Application-Development-Tutorials)
 * [Create a sis app using python](http://www.mobilenin.com/pys60/info_standalone_application.htm)
+* [(Ru) Install a game on a N-Gage](http://rutracker.org/forum/viewtopic.php?t=329313)
 
 ### File Format Specs
 
