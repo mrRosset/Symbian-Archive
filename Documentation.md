@@ -14,6 +14,10 @@ This is a russian book about C++ programming on Symbian 9.x that was published i
 
 ## Articles
 
+### Tutorials
+* [Step by step tutorial for your first Symbian Application](https://github.com/sapandiwakar/Symbian-Application-Development-Tutorials)
+* [Create a sis app using python](http://www.mobilenin.com/pys60/info_standalone_application.htm)
+
 ### File Format Specs
 
 * [E32Image (.app)](https://web.archive.org/web/20091213034509/http://wiki.forum.nokia.com/index.php/E32Image) 
