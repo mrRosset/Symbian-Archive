@@ -18,7 +18,7 @@ A collection of useful tools to have on your phones. From a file explorer to an 
 
 ### OpenTTD Symbian Port
 
-The indispensable port of OpenTTD for Symbian. An absolute must-have. [Forum Link](https://www.tt-forums.net/viewtopic.php?t=35942). [Download Link](http://team.pld-linux.org/~wolf/symbian/)
+The indispensable port of OpenTTD for Symbian. An absolute must-have. [Forum Link](https://www.tt-forums.net/viewtopic.php?t=35942) / [Download Link](http://team.pld-linux.org/~wolf/symbian/)
 
 ### Dictionnaries
 
