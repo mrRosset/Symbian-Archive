@@ -27,6 +27,8 @@ If you have any question or suggestion, please create an issue on the [github re
 
 An immense thanks to freaks_r_us who collected and archived a lot of resources. He/she also saved a lot of community collected tools. I hope to eventually store everything here. [Link to the archive](https://www.mediafire.com/folder/79jhy594xb3uk/Symbian_Development)
 
-The second huge thanks is to Artjom Vejsel, who host on his [personal website](https://akawolf.org/) a full mirror of the Symbian Foundation Wiki and of the Symbian Mercurial Repository.
+The second huge thanks goes to Artjom Vejsel, who host on his [personal website](https://akawolf.org/) a full mirror of the Symbian Foundation Wiki and of the Symbian Mercurial Repository.
+
+Another big thanks to [AppSoft4](https://github.com/Symbian9), who sent me multiple links to application archive, tutorials and other various ressources.
 
 And a final thanks to everyone who helped collect those files when they were originally collected as part of the NGemu project.
