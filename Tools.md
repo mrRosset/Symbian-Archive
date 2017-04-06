@@ -8,6 +8,10 @@ I'm not really sure how to cleanly organize the tools here in a comprehensive wa
 
 An archive of various tools. Both Symbian applications (file viewers, task manager, ...) and development tools (SDK switcher, bld.inf merger, ...). The website also contains notes about everything including some notes on Symbian OS. [Website](http://slion.net/view/Dev)
 
+### E32Explorer
+
+Another project of mine, it's a simple tool to visualize the different parts of an Symbian OS E32Image. It does a similar job as the petran utiliy provided by the sdk. It also has a very early support of the the TRomImage format, but it's not ready yet. [Github](https://github.com/mrRosset/E32Explorer)
+
 <br>
 
 ## Useful Symbian Apps
