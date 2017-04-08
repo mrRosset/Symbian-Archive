@@ -22,7 +22,7 @@ A tool by Florin9doi for visualizing the content of a ROM dump. The rom can be m
 
 ### Symbian ToolBox
 
-A collection of useful tools to have on your phones. From a file explorer to an IRC client. [link](http://symbian.host-ed.me/)
+A collection of useful tools to have on your phones. From a file explorer to an IRC client. [Website](http://symbian.host-ed.me/)
 
 ### OpenTTD Symbian Port
 
@@ -30,4 +30,4 @@ The indispensable port of OpenTTD for Symbian. An absolute must-have. [Forum Lin
 
 ### Dictionnaries
 
-A list of dictionnaries for Symbian OS. All of them are open source. [link](https://github.com/goldendict/goldendict/issues/765) 
+A list of dictionnaries for Symbian OS. All of them are open source. [Github](https://github.com/goldendict/goldendict/issues/765) 
