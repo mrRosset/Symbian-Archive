@@ -1,3 +1,14 @@
+## QT SDKs
+
+| Version                | Download |
+|------------------------|----------|
+| Belle SDK for QT SDK 1.1.2   | [Windows](https://mega.nz/#!e4l13ZiY!OfoRebQTVHh7K0b-YjHe-rwynpkaE5uM8TS0-QZWaAg) |
+| QT SDK offline 1.1.2   | [Windows](https://mega.nz/#!3tsRDIoC!H3DM4tmChM-XQ1dMUSOnZ46wCaJsskfgXQrHazQBTp8) / [Linux x64](https://mega.nz/#!ax1HEABA!SLWZ_7Lg1_IFnF6ktJAOCjSwOY22buAGWHjEDYE260Y) |
+| QT SDK offline 1.2.1   | [Windows](https://mega.nz/#!Kok32TSS!7Q_EErtjG8BmD0uhep3yt8m9UpfkUoLkwyWvyI6IVyg) / [Linux](https://mega.nz/#!uhdH3ZwY!0pesddzT0JLfUFdnVtGIjgBT8pI5K3WYDqOskFJHuQA) / [Linux x64](https://mega.nz/#!alk3RTRQ!ra5IDnayuSsdnSWruuxkviG-QoYvNT0S4ejwQALAlJ8) / [Mac](https://mega.nz/#!SolWVALJ!uOs2SbPrcRF-5U84mlTIzYQ8Ys1TGsT92X-vYV132qU) |
+
+
+<br>
+
 ## Python SDKs
 
 The projet's website is available at [https://garage.maemo.org/projects/pys60](https://garage.maemo.org/projects/pys60)  
