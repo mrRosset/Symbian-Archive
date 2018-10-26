@@ -18,6 +18,13 @@ For one short year, Nokia open-sourced their Symbian smartphone operating system
 
 <br>
 
+### Nokia Developer Wiki Archive
+
+This is an archive of most of the http://developer.nokia.com/community/wiki/api.php website last updated on 01-07-2014. There are MediaWiki dump and files that were uploaded to wiki, including articles in doc/pdf, code samples and some optional APIs in zip. It could be downloaded [here](https://archive.org/details/wiki-developernokiacom_community_wiki).
+Its content is listed on [this](NokiaDeveloperWiki_list.html) page to make it more accessible by search engines.
+
+<br>
+
 ### Accessroot Arteam's Symbian tools and tutorials
 
 This is a collection of tools and tutorials created by the Accessroot Arteam. They are mostly focused on reverse engineering and implementation details of Symbian OS. Since their official website is frequently offline here is an archive of all their Symbian work ([link](https://mega.nz/#!j8gQVABI!MOWKcTM61x87IIau0QdFYLeVVjpamCuiyFafR3OFSmI)) and of all of their work available on their website in 2016 ([link](https://mega.nz/#!v9ZAGLAQ!TTquoYgJCkWTDmOdxv0AU18x8sOpAKYMJ43-jNG0jbE)).
