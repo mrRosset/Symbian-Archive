@@ -1,6 +1,6 @@
 ## Content of Nokia Developer Wiki Archive
 
-The archieve is available for download [here](https://archive.org/details/wiki-developernokiacom_community_wiki).
+The archive is available for download [here](https://archive.org/details/wiki-developernokiacom_community_wiki).
 ```
 developernokiacom_community_wiki-20140701-wikidump
 ├── [1.6G]  developernokiacom_community_wiki-20140701-history.xml
