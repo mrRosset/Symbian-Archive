@@ -29,6 +29,6 @@ An immense thanks to freaks_r_us who collected and archived a lot of resources. 
 
 The second huge thanks goes to Artjom Vejsel, who host on his [personal website](https://akawolf.org/) a full mirror of the Symbian Foundation Wiki and of the Symbian Mercurial Repository.
 
-Another big thanks to [AppSoft4](https://github.com/Symbian9), who sent me multiple links to application archive, tutorials and other various ressources.
+Another big thanks to [app4soft](https://github.com/Symbian9), who sent me multiple links to application archive, tutorials and other various ressources.
 
 And a final thanks to everyone who helped collect those files when they were originally collected as part of the NGemu project.
